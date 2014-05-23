@@ -1,3 +1,8 @@
+CutatorServiceProvider
+======================
+
+A Cutator pagination ServiceProvider for Silex. 
+
 ## Simple Usage
 ```php
 <?php
